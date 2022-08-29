@@ -1,9 +1,9 @@
 # Inventory_System
 
-INVENTORY MANAGEMENT SYSTEM - - - - SPUTCLICK
+INVENTORY MANAGEMENT SYSTEM - - - - SHOPRITE
 ==============================================
-SPUTCLICK is an inventory management system created with C#. In this management
-system we have an Admin and Attendants. The Admin gets to do the following;
+Shoprite is an inventory management system created with C# using microsoft visual studio. In this management
+system we have two users namely an Admin and Attendants. The Admin gets to do the following;
 	•	 manage products 
 	•	set a reorder level for each product 
 	•	 manage stock 
